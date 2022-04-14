@@ -1,0 +1,16 @@
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50000, "printerStrictly Necessary ", "NoCategory");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50001, "appStrictly Necessary ", "bizops.device.basicfunct.-.hpsmart.print.npf");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50002, "appAnalytics", "prodsupport.device.telemetry.-.hpsmart.print.google");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50003, "printerStrictly Necessary ", "bizops.device.basicfunct.-.printer.print.npf");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50004, "appStrictly Necessary", "bizops.device.basicfunct.-.hpsmart-v1.print.npf ");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50005, "appAnalytics ", "prodsupport.device.telemetry.-.hpsmart-v1.print.google");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50006, "appAdvertizing ", "advertising.device.marketing.-.hpsmart-v1.print");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50007, "appPersonalized", "personalization.device.personalization.-.hpsmart-v1.print");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50008, "printerStrictly Necessary ", "bizops.device.basicfunct.-.printer-v1.print.npf");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50009, "printerAnalytics ", "prodsupport.device.telemetry.-.printer-v1.print ");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50010, "PrinterAdvertising ", "advertising.device.marketing.-.printer-v1.print");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50011, "printerPersonalized", "personalization.device.personalization.-.printer-v1.print");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50012, "appAnalytics ", "prodsupport.device.telemetry.-.psp.google");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50013, "printerStrictly Necessary", "bizops.customerOrg.basicfunct.smb.printer.print.npf");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50014, "printerAnalytics", "prodsupport.customerOrg.telemetry.smb.printer.print");
+INSERT INTO PrivacyConsentBasedCategory  (id, consentCategoryCd, alpacaPurposeId)  values  (50015, "PrinterAdvertising", "advertising.customerOrg.marketing.smb.printer.print");
